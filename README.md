@@ -9,4 +9,5 @@ download IMDB Dataset of 50K Movie Reviews from website:https://www.kaggle.com/d
 
 # Sentiment Classification
 run sentiment_classification.ipynb on colab, choosing runtime = GPU
+The training epoch sets to 1 in order to reduce the trainning time, if need better performance, can increase the training epoch
 

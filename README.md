@@ -7,3 +7,6 @@ scrape.py
 # Use imdb.csv.zip file to train and evaluate the model:
 download IMDB Dataset of 50K Movie Reviews from website:https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
+# Sentiment Classification
+run sentiment_classification.ipynb on colab, choosing runtime = GPU
+
